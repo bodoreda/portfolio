@@ -15,6 +15,7 @@
 - Frontend : JavaScript, jQuery, Vue.js, Vuex, HTML, CSS
 - Database : Oracle, MySQL, MariaDB
 - Version Control : Git, GitHub, GitLab, SVN
+- Communication : Slack, Jandi
 
 
 
