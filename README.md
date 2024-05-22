@@ -32,12 +32,17 @@
 
 ## 📌 프로젝트
 # 1. 개인 토이 프로젝트
-> 개발 기간 : 2024.04 ~ 2024.05
-> 사용 기술 : Java 17, SpringBoot 3, MariaDB, Vue.js 3, MSA
-> 상세 설명 :
+
+개발 기간 : 2024.04 ~ 2024.05
+
+사용 기술 : Java 17, SpringBoot 3, MariaDB, Vue.js 3, MSA
+
+상세 설명 :
 
 
 # 2. 팀 프로젝트
-> 개발 기간 : 2021.06 ~ 2021.07
-> 사용 기술 : Java 8, SpringMVC, Oracle, JavaScript, jQuery, Mybatis, 
-> 상세 설명 :
+개발 기간 : 2021.06 ~ 2021.07
+
+사용 기술 : Java 8, SpringMVC, Oracle, JavaScript, jQuery, Mybatis, 
+
+상세 설명 :
