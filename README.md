@@ -17,7 +17,7 @@
 - Version Control : Git, GitHub, GitLab, SVN
 - Communication : Slack, Jandi
 
- <br>
+<br>
 
 ## 📌 경력
 ### 메가소프트(주)   2022.12 ~ 2023.07  
@@ -28,7 +28,15 @@
   - JWT 기반 로그인 공통 인터페이스 개발
   - 텍스트/이미지 에디터, 전자서명, 휴대폰/이메일 인증 등 공통 인터페이스 개발
 
- <br>
+<br>
+
+## 📌 교육
+### KH정보교육원   2021.02 ~ 2021.07
+공공컨텐츠를 활용한 자바프로그래밍 개발자 양성과정
+
+교육 내용 : Java, Spring, Oracle, JavaScript, jQuery, Servlet, JSP, Mybatis, HTML, CSS
+
+<br>
 
 ## 📌 프로젝트
 ### 1. 개인 토이 프로젝트
