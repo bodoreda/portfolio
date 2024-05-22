@@ -23,7 +23,7 @@
 ### 메가소프트(주)   2022.12 ~ 2023.07  
 부동산 통합 플랫폼 개발 프로젝트
 
-사용 기술 : Java 17, SpringBoot 3, MariaDB, Vue.js 2/3, Git, GitLab, MSA
+사용 기술 : Java 17, SpringBoot 3, MariaDB 10, Vue.js 2/3, Git, GitLab, MSA
   - NICEPAY 결제 API 공통 인터페이스 개발
   - JWT 기반 로그인 공통 인터페이스 개발
   - 텍스트/이미지 에디터, 전자서명, 휴대폰/이메일 인증 등 공통 인터페이스 개발
@@ -43,13 +43,13 @@
 
 개발 기간 : 2024.04 ~ 2024.05
 
-사용 기술 : Java 17, SpringBoot 3, MariaDB, Vue.js 3, MSA
+사용 기술 : Java 17, SpringBoot 3, MariaDB 10, Vue.js 3, MSA
 
 설명 :
 
 자세히 보기 : README
 
-<br>
+---
 
 ### 2. 반려견 호텔 ( 인원 6, 기여도 20% )
 개발 기간 : 2021.06 ~ 2021.07
@@ -62,4 +62,7 @@ Datepicker 라이브러리를 활용한 객실 예약 서비스, Ajax 비동기 
 
 객실 각각의 체크인/아웃 날짜에 따라 사용자가 선택 가능한 체크인/아웃 날짜가 달라지는 점을 고려하기 위해 쿼리를 고민하고 subquery를 활용하는 등 SQL을 체득하는 경험을 할 수 있었던 프로젝트입니다.
 
+<br>
+![329758556-d3195ca8-bdf8-4d20-a72e-77e2cbdfff30](https://github.com/bodoreda/portfolio/assets/78584015/2339ad46-f11a-448f-bc2b-3baa630ef59b)
+<br>
 자세히 보기 : [README](https://github.com/bodoreda/2021muyahotel)
