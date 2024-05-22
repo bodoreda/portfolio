@@ -51,7 +51,7 @@
 <br>
 <br>
 
-![2023msa](https://github.com/bodoreda/portfolio/assets/78584015/7a2a1d9b-b297-42a8-a6ca-74f04e503c98)
+![2023msa2](https://github.com/bodoreda/portfolio/assets/78584015/697b2257-a28f-4856-924a-fb8129894d31)
 
 <br>
 
