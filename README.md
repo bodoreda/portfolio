@@ -51,8 +51,9 @@ RESTful API 규칙을 바탕으로 JWT를 활용한 로그인, NICEPAY 결제 AP
 
 RefreshToken을 저장하기 위한 Redis 및 Docker 환경 설정을 경험하고, JWT 인증/인가에 대해 이해 할 수 있었습니다.
 <br>
+<br>
 
-![2023msa](https://github.com/bodoreda/portfolio/assets/78584015/378d0663-abfc-4031-be3e-7c0a5ec853d7)
+![2023msa](https://github.com/bodoreda/portfolio/assets/78584015/7a2a1d9b-b297-42a8-a6ca-74f04e503c98)
 
 <br>
 자세히 보기 : [README](https://github.com/bodoreda/2023Member)
@@ -72,8 +73,9 @@ Datepicker 라이브러리를 활용한 객실 예약 서비스, Ajax 비동기 
 
 객실 각각의 체크인/아웃 날짜에 따라 사용자가 선택 가능한 체크인/아웃 날짜가 달라지는 점을 고려하기 위해 쿼리를 고민하고 subquery를 활용하는 등 SQL을 체득하는 경험을 할 수 있었던 프로젝트입니다.
 <br>
+<br>
 
-![muyahotel](https://github.com/bodoreda/portfolio/assets/78584015/5b4b8cb0-ea96-4091-b000-3bedce0bf7bb)
+![2021m](https://github.com/bodoreda/portfolio/assets/78584015/7046782f-48a8-43a6-a571-8ffb463414e2)
 
 <br>
 자세히 보기 : [README](https://github.com/bodoreda/2021muyahotel)
