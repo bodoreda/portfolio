@@ -15,9 +15,7 @@
 - Version Control : Git, GitHub, GitLab, SVN
 
 ## 📌 경력
-메가소프트(주)
-
-2022.12 ~ 2023.07  
+메가소프트(주)    2022.12 ~ 2023.07  
 
 부동산 통합 플랫폼 개발 프로젝트
   - 사용 기술 : Java 17, SpringBoot 3, MariaDB, Vue.js 2/3, Git, GitLab, MSA
