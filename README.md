@@ -54,7 +54,7 @@
 ![2023msa](https://github.com/bodoreda/portfolio/assets/78584015/7a2a1d9b-b297-42a8-a6ca-74f04e503c98)
 
 <br>
-자세히 보기 : [README](https://github.com/bodoreda/2023Member)
+[자세히 보기](https://github.com/bodoreda/2023Member)
 
 ---
 
@@ -74,4 +74,4 @@
 ![2021m](https://github.com/bodoreda/portfolio/assets/78584015/7046782f-48a8-43a6-a571-8ffb463414e2)
 
 <br>
-자세히 보기 : [README](https://github.com/bodoreda/2021muyahotel)
+[자세히 보기](https://github.com/bodoreda/2021muyahotel)
