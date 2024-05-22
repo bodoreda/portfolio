@@ -45,9 +45,9 @@
 
 사용 기술 : Java 17, SpringBoot 3, MariaDB 10, Vue.js 3, Vuex, Vuetify, MSA
 
-#### RESTful API 규칙을 바탕으로 JWT를 활용한 로그인, NICEPAY 결제 API를 Vue.js 3 문법을 적용/전환한 개인 토이 프로젝트입니다.
+#### _RESTful API_ 규칙을 바탕으로 _JWT_ 를 활용한 로그인, NICEPAY 결제 API를 Vue.js 3 문법을 적용/전환한 개인 토이 프로젝트입니다.
 
-#### RefreshToken을 저장하기 위한 Redis 및 Docker 환경 설정을 경험하고, JWT 인증/인가에 대해 이해 할 수 있었습니다.
+#### RefreshToken을 저장하기 위한 _Redis_ 및 _Docker_ 환경 설정을 경험하고, _JWT_ 인증/인가에 대해 이해 할 수 있었습니다.
 <br>
 <br>
 
