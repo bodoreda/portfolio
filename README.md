@@ -39,7 +39,7 @@
 <br>
 
 ## 📌 프로젝트
-### 1. 개인 토이 프로젝트
+### 1. 개인 토이 프로젝트 (인원 1)
 
 개발 기간 : 2024.04 ~ 2024.05
 
@@ -49,12 +49,17 @@
 
 자세히 보기 : README
 
+<br>
 
-### 2. 팀 프로젝트
+### 2. 반려견 호텔 ( 인원 6, 기여도 20% )
 개발 기간 : 2021.06 ~ 2021.07
 
-사용 기술 : Java 8, SpringMVC, Oracle, JavaScript, jQuery, Mybatis, 
+사용 기술 : Java 1.8, SpringMVC 5, Oracle 11, JavaScript, jQuery, Mybatis, JSP
 
-설명 :
+설명 : 교육기간 습득한 내용을 바탕으로 수행한 팀 프로젝트입니다. 
 
-자세히 보기 : README
+Datepicker 라이브러리를 활용한 객실 예약 서비스, Ajax 비동기 통신을 적용한 이미지 게시판 등을 개발하였습니다.
+
+객실 각각의 체크인/아웃 날짜에 따라 사용자가 선택 가능한 체크인/아웃 날짜가 달라지는 점을 고려하기 위해 쿼리를 고민하고 subquery를 활용하는 등 SQL을 체득하는 경험을 할 수 있었던 프로젝트입니다.
+
+자세히 보기 : [README](https://github.com/bodoreda/2021muyahotel)
