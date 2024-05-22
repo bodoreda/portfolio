@@ -37,7 +37,9 @@
 
 사용 기술 : Java 17, SpringBoot 3, MariaDB, Vue.js 3, MSA
 
-상세 설명 :
+설명 :
+
+자세히 보기 : README
 
 
 ### 2. 팀 프로젝트
@@ -45,4 +47,6 @@
 
 사용 기술 : Java 8, SpringMVC, Oracle, JavaScript, jQuery, Mybatis, 
 
-상세 설명 :
+설명 :
+
+자세히 보기 : README
