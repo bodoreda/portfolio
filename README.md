@@ -24,8 +24,8 @@
 부동산 통합 플랫폼 개발 프로젝트
 
 사용 기술 : Java 17, SpringBoot 3, MariaDB 10, Vue.js 2/3, Git, GitLab, MSA
-  - NICEPAY 결제 API 공통 인터페이스 개발
-  - JWT 기반 로그인 공통 인터페이스 개발
+  - NICEPAY 결제 API 개발
+  - JWT 기반 로그인 개발
   - 텍스트/이미지 에디터, 전자서명, 휴대폰/이메일 인증 등 공통 인터페이스 개발
 
 <br>
