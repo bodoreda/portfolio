@@ -11,22 +11,26 @@
   <br>
 
 ## 📌 스킬
-- Backend : Java, Spring
-- Frontend : JavaScript, jQuery, Vue.js, Vuex, HTML, CSS
+- Backend : Java, SpringBoot/MVC
+- Frontend : JavaScript, jQuery, Vue.js, Vuex, React, HTML/CSS
 - Database : Oracle, MySQL, MariaDB
-- Version Control : Git, GitHub, GitLab, SVN
-- Communication : Slack, Jandi
+- Version Control : Git, GitHub, SVN
+- Communication : Slack
 
 <br>
 
 ## 📌 경력
 ### 메가소프트(주)   2022.12 ~ 2023.07  
-부동산 통합 플랫폼 개발 프로젝트
-
-사용 기술 : Java 17, SpringBoot 3, MariaDB 10, Vue.js 2/3, Git, GitLab, MSA
-  - NICEPAY 결제 API 개발
-  - JWT 기반 로그인 개발
-  - 텍스트/이미지 에디터, 전자서명, 휴대폰/이메일 인증 등 공통 인터페이스 개발
+<br>
+1. LMS(학습 관리 시스템) 개발 프로젝트
+기간 : 2022.12 ~ 2023.01
+개발환경 : Java 11, SpringMVC, JSP, Vue.js 2, mySql, SVN
+주요업무 : 온라인 시험 응시/결과확인, 강의실/비품 관리 페이지 풀스택 개발
+<br>
+2. 부동산 통합 플랫폼 개발 프로젝트
+기간 : 2023.02 ~ 2023.06
+개발환경 : Java 17, SpringBoot, Vue.js 2/3, MariaDB, Git, MSA
+주요업무 : Nicepay결제, 로그인(토큰 기반), 휴대폰/이메일 인증, 텍스트/이미지 에디터, 전자서명 등 공통 인터페이스 풀스택 개발
 
 <br>
 
@@ -34,7 +38,7 @@
 ### KH정보교육원   2021.02 ~ 2021.07
 공공컨텐츠를 활용한 자바프로그래밍 개발자 양성과정
 
-교육 내용 : Java, Spring, Oracle, JavaScript, jQuery, Servlet, JSP, Mybatis, HTML, CSS
+교육 내용 : Java, SpringMVC, Oracle, JavaScript, jQuery, Servlet, JSP, Mybatis, Apache Tomcat, HTML/CSS
 
 <br>
 
@@ -43,7 +47,7 @@
 
 개발 기간 : 2024.04 ~ 2024.05
 
-사용 기술 : Java 17, SpringBoot 3, MariaDB 10, Vue.js 3, Vuex, Vuetify, MSA
+사용 기술 : Java 17, SpringBoot, MariaDB, Vue.js 3, Vuex, Vuetify, MSA
 
 #### _RESTful API_ 규칙을 바탕으로 _JWT_ 를 활용한 로그인, NICEPAY 결제 API를 Vue.js 3 문법을 적용/전환한 개인 토이 프로젝트입니다.
 
@@ -62,7 +66,7 @@
 ### 2. 반려견 호텔 ( 인원 6, 기여도 20% )
 개발 기간 : 2021.06 ~ 2021.07
 
-사용 기술 : Java 1.8, SpringMVC 5, Oracle 11, JavaScript, jQuery, Mybatis, JSP
+사용 기술 : Java 1.8, SpringMVC, Oracle 11g, JavaScript, jQuery, Mybatis, JSP
 
 #### 교육기간 습득한 내용을 바탕으로 수행한 팀 프로젝트입니다. 
 
