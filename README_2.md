@@ -86,11 +86,3 @@
 **3. SMS/이메일 인증 및 회원가입 서비스 개발**
 - 회원가입 단계에서 사용되는 SMS/이메일 인증 기능 구현
 - 인증 코드 발급/검증 로직 및 인증 상태에 따른 회원가입 서비스 구현
-
-<br><br>
-
-## 📌 교육
-### KH정보교육원   2021.02 ~ 2021.07
-공공컨텐츠를 활용한 자바프로그래밍 개발자 양성과정
-
-교육 내용 : Java, SpringMVC, Oracle, JavaScript, jQuery, Servlet, JSP, Mybatis, Apache Tomcat, HTML/CSS
